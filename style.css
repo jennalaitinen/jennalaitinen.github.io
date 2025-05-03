@@ -34,7 +34,7 @@ body {
 }
 
 .navbar a {
-  color: black;
+  color: rgb(139, 0,0);
   padding: 14px 20px;
   text-decoration: none;
   display: block;
@@ -42,5 +42,5 @@ body {
 }
 
 .navbar a:hover {
-  background-color: #575757;
+  background-color: rgb(255, 182, 193);
 }
